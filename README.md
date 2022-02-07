@@ -45,5 +45,5 @@ Here are the problems and bugs that I plan to address in the future. If you fixe
 - Engage the Technicians in the direct service request replies 
 - 
 
-# Reamrks and Appreciation 
+# Remarks and Appreciation 
 I welcome and appreciate contributions taken byn the whole team right awy from the planning, codes building, fixing of the bugs, system testing and then implementation of the application. We intend and look forward to more easing of the apartment management fratenity as we come up with more vibrants and user friendly features 
