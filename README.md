@@ -1,18 +1,9 @@
-Mobile Apartment 
-Demo: https://yenchiah.github.io/project-website-template/
+MobileApartment 
+Site: https://ronnieanyine18.github.io
 
-This is an internet based application whichis aimed at easing the communication between tenants, landlords and caretakers in regards to serice delivery 
-- Project website: [http://smellpgh.org](http://smellpgh.org)
-- Project website: [https://smellmycity.org](https://smellmycity.org)
-- Project website: [https://smoke.createlab.org](https://smoke.createlab.org)
+# Introduction 
 
-If you would love to keep updating this template, please keep your codes in separate files (custom.css and custom.js) and avoid modifying the following:
-- css/frame.css (
-- CSS for the main frame of the website)
-- css/controls.css (CSS for control elements that do not require JavaScript)
-- css/widgets.css (CSS for widgets that require JavaScript)
-- js/widgets.js (JavaScript for widgets)
-- js/menu.js (JavaScript for loading the menu bar)
+This is an internet based application which is aimed at easing the communication between tenants, landlords and Caretakers in regards to service delivery
 
 From version 3.0, the menu bar at the top is moved into a single file (menu.html) for better management. Each template page will now use jQuery to load the menu bar file (menu.js), as shown below:
 ```html
@@ -48,13 +39,11 @@ Here are the problems and bugs that I plan to address in the future. If you fixe
 
 - On mobile Safari, the menu on the top will not close after opening it. This is because the menu icon on mobile Safari retains focus after a touch event, and the menu relies on the loss of focus event of the icon to close.
 
-# Future Plans for Feature Enhancement
-Here are several features that I plan to add in the future. If you wish to contribute, please email me to discuss the design before submitting pull requests.
+# Way Forward
 
-- A slideshow block for showing images or videos
-- A footer at the bottom
+- Extend the application to manage a number of buildimgs in different locations 
+- Engage the Technicians in the direct service request replies 
+- 
 
-# Policy for Open Source Contribution
-I welcome and appreciate contributions in fixing bugs and enhancing features. However, please avoid submitting pull requests (PRs) that modify the template's existing design without discussing them with me. Please do not submit PRs that are not related to bug fixes or feature enhancements. Editing text in the README file is not encouraged (e.g., fixing grammar errors). PRs with unnecessary editing (e.g., adding unrelated text, changing the design of the template, modifying the README text arbitrarily) or unrelated changes (e.g., changes that are related to only their applications) will be marked as "spam" and "invalid."
-
-If you are excited to contribute to the new features directly, please explain your design decisions and how your design matches this template's style in the PR. If you fix bugs, please explain which bug you fixed and how you fixed them. The explanations that you put in each PR can greatly help me determine if the changes can be merged into the master branch. PRs with no explanations will highly likely be rejected and marked as "wontfix."
+# Reamrks and Appreciation 
+I welcome and appreciate contributions taken byn the whole team right awy from the planning, codes building, fixing of the bugs, system testing and then implementation of the application. We intend and look forward to more easing of the apartment management fratenity as we come up with more vibrants and user friendly features 
